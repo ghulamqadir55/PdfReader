@@ -55,6 +55,7 @@ class AppiumDemo {
 
             Thread.sleep(2000);
 
+            //commit
             object.performClick("com.pdfreader.pdfviewer.pdf.reader:id/itemSheetRename");
             Thread.sleep(1000);
 
